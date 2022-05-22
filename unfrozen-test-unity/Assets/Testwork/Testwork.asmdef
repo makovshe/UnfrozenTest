@@ -1,0 +1,16 @@
+{
+    "name": "Testwork",
+    "rootNamespace": "",
+    "references": [
+        "GUID:24e25706440cf034b96f50622316662d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
