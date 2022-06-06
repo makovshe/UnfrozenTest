@@ -225,7 +225,7 @@ namespace Testwork.Scripts.Battle
         private static T[] RandomizeOrder<T>(IEnumerable<T> array)
         {
             const int minRange = -1000;
-            const int maxRange = -1000;
+            const int maxRange = 1000;
             return array.OrderBy(m => UnityEngine.Random.Range(minRange, maxRange)).ToArray();
         }
     }
